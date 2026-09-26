@@ -6,10 +6,24 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+
+    services:
+      mysql:
+        image: mysql:8.0
+        env:
+          MYSQL_ROOT_PASSWORD: root
+          MYSQL_DATABASE: securebank
+        ports:
+          - 3306:3306
+        options: >-
+          --health-cmd="mysqladmin ping -h localhost -uroot -proot"
+          --health-interval=5s
+          --health-timeout=5s
+          --health-retries=10
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
-
 
       - name: Set up Java
         uses: actions/setup-java@v4
