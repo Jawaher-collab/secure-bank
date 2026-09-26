@@ -1,0 +1,67 @@
+SECUREBANK CUSTOMER POLICIES
+
+ACCOUNT OPENING POLICIES
+
+Customers must be at least 18 years old to open a SecureBank account.
+Customers must provide valid identification and required personal information.
+SecureBank offers CHECKING and SAVINGS accounts.
+Each account must be linked to an active SecureBank customer profile.
+Customers are responsible for keeping their contact information up to date.
+
+
+TRANSFER POLICIES
+
+Customers may transfer funds between their own SecureBank accounts.
+Customers may also transfer funds to another SecureBank customer.
+The maximum daily transfer limit is $5,000.
+A transfer cannot be completed if the account has insufficient funds.
+The sending account must be active at the time of the transfer.
+Customers must verify the transfer amount and destination account before confirming a transfer.
+Completed transfers are recorded in the customer's transaction history.
+
+
+LOAN POLICIES
+
+Customers must have an active SecureBank account before applying for a loan.
+Loan applications are subject to review and approval.
+Customers must provide the required financial information when applying for a loan.
+Submitting a loan application does not guarantee approval.
+Loan status may be PENDING, APPROVED, or REJECTED.
+Customers can review the status of their loan requests through SecureBank.
+
+
+CARD POLICIES
+
+Customers with an active SecureBank account may request a bank card.
+A card must be associated with an eligible customer account.
+Customers must report lost or stolen cards as soon as possible.
+SecureBank may block a card when suspicious activity is detected.
+Customers are responsible for protecting their card information.
+
+
+BENEFICIARY POLICIES
+
+Customers may add beneficiaries for transfers.
+A beneficiary must be registered before the customer can initiate certain transfers.
+Customers are responsible for verifying beneficiary information.
+Customers should not add unknown or untrusted individuals as beneficiaries.
+
+
+SECURITY POLICIES
+
+Customers must keep their SecureBank login credentials confidential.
+Customers must never share their password with another person.
+SecureBank employees must not request a customer's password.
+Customers should report suspicious account activity as soon as possible.
+SecureBank may restrict access when suspicious authentication activity is detected.
+Customer access is controlled according to the user's assigned role.
+Sensitive banking operations require an authenticated customer.
+
+
+TRANSACTION POLICIES
+
+Deposits and withdrawals are recorded in the customer's transaction history.
+Transfers are recorded after they are successfully processed.
+Customers may view transactions associated with their own accounts.
+Customers cannot access another customer's private transaction information.
+Transactions must contain sufficient information for SecureBank to maintain an audit trail.

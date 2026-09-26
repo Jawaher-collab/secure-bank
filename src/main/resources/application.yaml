@@ -1,0 +1,40 @@
+spring:
+  application:
+    name: securebank12july
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/securebank
+    username: root
+    password: 1400JmSg
+    driver-class-name: com.mysql.cj.jdbc.Driver
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+  ai:
+    ollama:
+      base-url: http://localhost:11434
+      chat:
+        options:
+          model: llama3.2
+
+      embedding:
+          options:
+            model: nomic-embed-text
+    mcp:
+      server:
+        name: securebank-mcp-server
+        version: 1.0.0
+        protocol: STREAMABLE
+
+
+
+
+
+server:
+  port: 8090
